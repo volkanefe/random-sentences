@@ -1,0 +1,25 @@
+in the morning
+at noon
+in the afternoon
+in the evening
+at night
+at midnight
+on Mondays
+on Tuesdays
+on Wednesdays
+on Thursdays
+on Fridays
+on Saturdays
+on Sundays
+at one o'clock
+at two o'clock
+at three o'clock
+at four o'clock
+at five o'clock
+at six o'clock
+at seven o'clock
+at eight o'clock
+at nine o'clock
+at ten o'clock
+at eleven o'clock
+at twelve o'clock
